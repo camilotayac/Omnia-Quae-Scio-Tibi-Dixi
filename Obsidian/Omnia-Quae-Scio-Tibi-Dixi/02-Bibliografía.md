@@ -1,0 +1,1 @@
+> [[1]] Frenkel, D., & Smit, B. (2023). _Understanding molecular simulation: from algorithms to applications_. Elsevier.
