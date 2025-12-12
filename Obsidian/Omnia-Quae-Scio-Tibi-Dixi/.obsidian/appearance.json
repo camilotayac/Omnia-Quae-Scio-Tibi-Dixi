@@ -1,1 +1,9 @@
-{}
+{
+  "theme": "obsidian",
+  "cssTheme": "Catppuccin",
+  "accentColor": "#9f0fff",
+  "interfaceFontFamily": "Helvetica Neue",
+  "textFontFamily": "Helvetica Neue",
+  "baseFontSize": 20,
+  "translucency": true
+}

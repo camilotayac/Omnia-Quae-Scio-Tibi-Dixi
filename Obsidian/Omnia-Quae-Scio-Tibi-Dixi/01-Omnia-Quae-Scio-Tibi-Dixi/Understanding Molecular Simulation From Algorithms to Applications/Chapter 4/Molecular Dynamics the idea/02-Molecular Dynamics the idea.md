@@ -1,0 +1,1 @@
+Para tener datos sobre una propiedad observable en [[MD]], se debe expresar esa propiedad mediante una función de la posición y el momento de las partículas del sistema [[1]].
