@@ -1,0 +1,3 @@
+En un sistema de muchos cuerpos clásico, es decir, sistemas infinitamente grandes, para medir la temperatura en  [[MD]] se usa la [[equipartición]] de la energía entre todos los grados de libertad. Esto se agrega a la forma cuadrática en el [[Hamiltoniano]] del sistema [[1]].
+La formula general es:  $$<\frac{1}{2}mv_\alpha^2>=\frac{1}{2}K_BT$$
+$<>$, Indican el valor promedio. $\frac{1}{2}mv_\alpha^2$, indica la energía cinética por grado de libertad. $m$, es la masa, $v_\alpha^2$, velocidad de cada partícula $\alpha$ [[1]]. 
